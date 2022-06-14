@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-loops/
+
 import java.util.*;
 import java.io.*;
 
